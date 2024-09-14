@@ -12,7 +12,7 @@ const HomePage = () => {
           href={"/news/blog/blog1"}
           className="uppercase text-center font-serif bg-green-500 text-black p-3 rounded-lg"
         >
-          Blog1 Page
+          Blog Page
         </Link>
       </div>
     </div>
