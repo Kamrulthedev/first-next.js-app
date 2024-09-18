@@ -10,6 +10,7 @@ const HomePage = async () => {
   });
   const shoes = await res.json();
 
+
   return (
     <div className=" h-screen ">
       <h1 className="text-2xl font-serif text-center uppercase text-white">
