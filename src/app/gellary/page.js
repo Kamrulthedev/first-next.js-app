@@ -10,7 +10,7 @@ const ImageGElllaryPage = () => {
         alt="Next Image"
         width={500}
         height={100}
-                className="mx-auto"
+        className="mx-auto"
       />
 
       <h1 className="text-center m-5">This is NExt.Js Image Tag</h1>

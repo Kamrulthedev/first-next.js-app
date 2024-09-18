@@ -5,7 +5,7 @@ const Counter = () => {
   const [counter, setCounter] = useState(0);
   return (
     <div>
-      <h1 className="text-center text-black mt-4 text-2xl font-serif">
+      <h1 className="text-center text-white mt-4 text-2xl font-serif">
         Counter : {counter}
       </h1>
       <div className="text-center mt-10">
